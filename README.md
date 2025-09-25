@@ -17,6 +17,8 @@ First semester (Mod. A):
 
 * [Lab 0.1](notebooks/Lab-0.1.IntroPandas.ipynb): Introduction to Pandas
 
+* [Lab 1](notebooks/Lab-1.Data_generation.ipynb): Introduction to Pandas
+
 Second semester (Mod. B):
 
 
