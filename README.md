@@ -17,7 +17,9 @@ First semester (Mod. A):
 
 * [Lab 0.1](notebooks/Lab-0.1.IntroPandas.ipynb): Introduction to Pandas
 
-* [Lab 1](notebooks/Lab-1.Data_generation.ipynb): Introduction to Pandas
+* [Lab 1](notebooks/Lab-1.Data_generation.ipynb): Data generation
+
+* [Lab 2](notebooks/Lab-2.Bias_Variance.ipynb): Bias-variance trade off
 
 Second semester (Mod. B):
 
