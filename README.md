@@ -19,9 +19,11 @@ First semester (Mod. A):
 
 * [Lab 1](notebooks/Lab-1.Data_generation.ipynb): Data generation
 
-* [Lab 2](notebooks/Lab-2.Bias_Variance.ipynb): Bias-variance trade off
+* [Lab 2](notebooks/Lab-2.Bias_Variance.ipynb): Bias-variance trade off [Solution](solutions/sol-02.ipynb)
 
-* [Lab 3](notebooks/Lab-3.Regression.ipynb): Linear and Logistic regression
+* [Lab 3](notebooks/Lab-3.Regression.ipynb): Linear and Logistic regression [Solution](solutions/sol-03.ipynb)
+
+* [Lab 4](notebooks/Lab-4.Regularization.ipynb): Regularized Linear Regression and K-Fold Cross Validation
 
 Second semester (Mod. B):
 
