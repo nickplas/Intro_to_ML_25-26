@@ -29,7 +29,9 @@ To do so (inside your environment):
 And then push your requirements.txt file to git
 
 > git add requirements.txt
+
 > git commit -m 'adding requirements'
+
 > git push
 
 
