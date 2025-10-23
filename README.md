@@ -23,10 +23,12 @@ First semester (Mod. A):
 
 * [Lab 3](notebooks/Lab-3.Regression.ipynb): Linear and Logistic regression ([Solution](solutions/sol-03.ipynb))
 
-* [Lab 4](notebooks/Lab-4.Regularizations.ipynb): Regularized Linear Regression and K-Fold Cross Validation ([Solution](solutions/sol-04.ipynb))
+* [Lab 4](notebooks/Lab-4.Regularizations.ipynb): Regularized Linear Regression and K-Fold Cross Validation
 
 Second semester (Mod. B):
 
 
 Challenges:
+
+* [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
 
