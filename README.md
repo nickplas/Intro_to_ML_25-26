@@ -25,7 +25,7 @@ First semester (Mod. A):
 
 * [Lab 4](notebooks/Lab-4.Regularizations.ipynb): Regularized Linear Regression and K-Fold Cross Validation ([Solution](solutions/sol-04.ipynb))
 
-* [Lab 5](notebooks/Lab-5.UnsupervisedLearning.ipynb)
+* [Lab 5](notebooks/Lab-5.UnsupervisedLearning.ipynb): Unsupervised Learning
 
 Second semester (Mod. B):
 
