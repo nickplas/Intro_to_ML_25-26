@@ -25,7 +25,9 @@ First semester (Mod. A):
 
 * [Lab 4](notebooks/Lab-4.Regularizations.ipynb): Regularized Linear Regression and K-Fold Cross Validation ([Solution](solutions/sol-04.ipynb))
 
-* [Lab 5](notebooks/Lab-5.UnsupervisedLearning.ipynb): Unsupervised Learning
+* [Lab 5](notebooks/Lab-5.UnsupervisedLearning.ipynb): Unsupervised Learning ([Solution](solutions/sol-05.ipynb))
+
+* [Lab 6](notebooks/Lab-6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes
 
 Second semester (Mod. B):
 
