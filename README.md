@@ -27,7 +27,9 @@ First semester (Mod. A):
 
 * [Lab 5](notebooks/Lab-5.UnsupervisedLearning.ipynb): Unsupervised Learning ([Solution](solutions/sol-05.ipynb))
 
-* [Lab 6](notebooks/Lab-6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes
+* [Lab 6](notebooks/Lab-6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes ([Solution](solutions/sol-07.ipynb))
+
+* [Lab 7](notebooks/Lab-7.KNNGaussianNaiveBayesTrees.ipynb) Classification with KNN, Trees and Gaussian Naive Bayes 
 
 Second semester (Mod. B):
 
