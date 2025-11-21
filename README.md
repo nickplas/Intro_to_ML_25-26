@@ -29,7 +29,7 @@ First semester (Mod. A):
 
 * [Lab 6](notebooks/Lab-6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes ([Solution](solutions/sol-07.ipynb))
 
-* [Lab 7](notebooks/Lab-7.KNNGaussianNaiveBayesTrees.ipynb) Classification with KNN, Trees and Gaussian Naive Bayes 
+* [Lab 7](notebooks/Lab-7.KNNGaussianNaiveBayesTrees.ipynb) Classification with KNN, Trees and Gaussian Naive Bayes ([Solution](solutions/sol-07.ipynb))
 
 Second semester (Mod. B):
 
