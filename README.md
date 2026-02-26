@@ -33,6 +33,7 @@ First semester (Mod. A):
 
 Second semester (Mod. B):
 
+* [Lab 8](notebooks/Lab-8.RL_gridworld.ipynb) Gridworld & Bellman equations
 
 Challenges:
 
