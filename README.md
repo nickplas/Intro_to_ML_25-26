@@ -35,7 +35,7 @@ Second semester (Mod. B):
 
 * [Lab 8](notebooks/Lab-8.RL_gridworld.ipynb) Gridworld & Bellman equations ([Solution](solutions/sol-08.ipynb))
 
-* [Lab 9](notebooks/Lab-9.RL_Dynamic_programming.ipynb) Gridworld & Bellman equations
+* [Lab 9](notebooks/Lab-9.RL_Dynamic_programming.ipynb) Dynamic Programming 
 
 Challenges:
 
