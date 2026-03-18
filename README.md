@@ -35,7 +35,11 @@ Second semester (Mod. B):
 
 * [Lab 8](notebooks/Lab-8.RL_gridworld.ipynb) Gridworld & Bellman equations ([Solution](solutions/sol-08.ipynb))
 
-* [Lab 9](notebooks/Lab-9.RL_Dynamic_programming.ipynb) Dynamic Programming 
+* [Lab 9](notebooks/Lab-9.RL_Dynamic_programming.ipynb) Dynamic Programming  ([Solution](solutions/sol-09.ipynb))
+
+* [Lab 10](notebooks/Lab-10.RL_QLearning.ipynb) Q-learning & Sarsa (See also in notebook the example on cliff walking) ([Solution](solutions/sol-10.ipynb))
+
+* [Lab 11](notebooks/Lab-11.RL_Conitnuous.ipynb) RL in continuous spaces 
 
 Challenges:
 
