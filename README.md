@@ -39,7 +39,9 @@ Second semester (Mod. B):
 
 * [Lab 10](notebooks/Lab-10.RL_QLearning.ipynb) Q-learning & Sarsa (See also in notebook the example on cliff walking) ([Solution](solutions/sol-10.ipynb))
 
-* [Lab 11](notebooks/Lab-11.RL_Conitnuous.ipynb) RL in continuous spaces 
+* [Lab 11](notebooks/Lab-11.RL_Conitnuous.ipynb) RL in continuous spaces ([Solution](solutions/sol-11.ipynb))
+
+* [Lab 12](notebooks/Lab-12.Perceptron_and_SVM.ipynb) Percepetron_and_SVM 
 
 Challenges:
 
