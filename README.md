@@ -43,6 +43,12 @@ Second semester (Mod. B):
 
 * [Lab 12](notebooks/Lab-12.Perceptron_and_SVM.ipynb) Percepetron_and_SVM 
 
+* [Lab 13](notebooks/Lab-13.KRR.ipynb) Kernel Ridge Regression 
+
+* [Lab 14](notebooks/Lab-14.KPCA-KSVM.ipynb) Kernel PCA, Kernel SVM
+
+* [Lab 15](notebooks/Lab-15.Torch_Tutorial.ipynb) PyTorch tutorial 
+
 Challenges:
 
 * [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
