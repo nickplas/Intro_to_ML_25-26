@@ -49,9 +49,16 @@ Second semester (Mod. B):
 
 * [Lab 15](notebooks/Lab-15.Torch_Tutorial.ipynb) PyTorch tutorial 
 
+* [Lab 16](notebooks/Lab-16.Implicit_regularization.ipynb) Implicit regularization 
+
+* [Lab 17](notebooks/Lab-17.Autoencoders.ipynb) Autoencoders 
+
 Challenges:
 
 * [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
 
 * [Challenge 1](challenges/challenge_one.ipynb): Binary Classification with Unsupervised and Supervised Learning Techniques
 
+* [Challenge 2](challenges/challenge_two.ipynb): Kernel methods
+
+* [Challenge 3](challenges/challenge_three.ipynb): Artificial Neural Networks 
